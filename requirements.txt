@@ -1,0 +1,15 @@
+facexlib
+lmdb
+numpy
+opencv-python
+pyyaml
+scipy
+tb-nightly
+torch
+torchvision
+basicsr
+tqdm
+yapf
+fastapi[all]
+realesrgan
+
